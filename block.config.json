@@ -1,0 +1,8 @@
+{
+  "name": "multiplicationpack",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/grgshiji/multiplicationpack",
+    "ssh": "git@github.com:grgshiji/multiplicationpack.git"
+  }
+}
